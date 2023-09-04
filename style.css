@@ -149,3 +149,57 @@ h3 {
   color: #1f2937;
   font-weight: lighter;
 }
+
+.call {
+  background-color: rgb(255, 255, 255);
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.callbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #3882f6;
+  width: 1000px;
+  height: 130px;
+  border-radius: 10px;
+  border : 4px none #3559db
+
+}
+
+.calleft {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+
+.sign-up-second-section {
+  color: #ffffff;
+  background-color: #3882f6;
+  width: 120px;
+  height: 40px;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  font-size: large;
+  font-weight: 400;
+  font-style: bolder;
+}
+
+h4 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #ffffff;
+  font-weight: bolder;
+}
+
+.h4text {
+  font-size: 18px;
+  font-weight: 500;
+  color: #e5e7eb;
+}
